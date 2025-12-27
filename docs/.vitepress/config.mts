@@ -18,14 +18,13 @@ export default defineConfig({
         items: [
           { text: '开始前', link: '/Before_starting' },
           { text: '下载Synthesizer V Studio 1 Basic', link: '/SynthesizerV_Download' },
-	  { text: '下载Lite声库', link: '/LiteVoicedatabase_Download' }
+	  { text: '下载Lite版声库', link: '/LiteVoicedatabase_Download' }
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/PhigrcraftOSawa/SynthesizerV-Lite-DownloadSite' }
-    ],
-    logo: 'https://raw.githubusercontent.com/PhigrcraftOSawa/SynthesizerV-Lite-DownloadSite/refs/heads/main/assets/SynthVLogo.svg'
+    ]
   }
 })
