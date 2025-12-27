@@ -1,6 +1,8 @@
-# 下载Lite声库
+# 下载Lite版声库
 
 > [!Warning]
+> 
+> Lite版歌声数据库仅适用于Synthesizer V 1代
 
 > [!Tip]
 > 
@@ -41,7 +43,5 @@
 [tsuina-ai-lite-install.svpk](https://github.com/PhigrcraftOSawa/SynthesizerV-Lite-DownloadSite/releases/download/1.0.0/tsuina-ai-lite-install.svpk)
 
 [tsuina-lite-installer.svpk](https://github.com/PhigrcraftOSawa/SynthesizerV-Lite-DownloadSite/releases/download/1.0.0/tsuina-lite-installer.svpk)
-
-
 
 ©版权所有 2020-2025 Dreamtonics

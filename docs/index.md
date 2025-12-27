@@ -14,7 +14,7 @@ hero:
       text: 下载Synthesizer V Studio 1 Basic
       link: /SynthesizerV_Download
     - theme: alt
-      text: 下载Lite声库
+      text: 下载Lite版声库
       link: /LiteVoicedatabase_Download
   image:
     src: https://raw.githubusercontent.com/PhigrcraftOSawa/SynthesizerV-Lite-DownloadSite/refs/heads/main/assets/SynthV.svg
